@@ -76,3 +76,5 @@ require (
 )
 
 replace gvisor.dev/gvisor v0.0.0-20220901235040-6ca97ef2ce1c => github.com/metacubex/gvisor v0.0.0-20221217030112-bdcd835fd60e
+
+replace github.com/metacubex/sing-tun v0.1.0 => github.com/chain710/sing-tun v0.1.0-1

@@ -2,6 +2,8 @@ github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da h1:KjTM2ks9d14ZYCvmH
 github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da/go.mod h1:eHEWzANqSiWQsof+nXEI9bUVUyV6F53Fp89EuCh2EAA=
 github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
 github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
+github.com/chain710/sing-tun v0.1.0-1 h1:n9uHWpPmuSeX0Rt+RxCXEb6M71mrsXhv8R5GcUTS6qE=
+github.com/chain710/sing-tun v0.1.0-1/go.mod h1:l4JyI6RTrlHLQz5vSakg+wxA+LwGVI0Mz5ZtlOv67dA=
 github.com/chzyer/logex v1.1.10/go.mod h1:+Ywpsq7O8HXn0nuIou7OrIPyXbp3wmkHB+jjWRnGsAI=
 github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e/go.mod h1:nSuG5e5PlCu98SY8svDHJxuZscDgtXS6KTTbou5AhLI=
 github.com/chzyer/test v0.0.0-20180213035817-a1ea475d72b1/go.mod h1:Q3SI9o4m/ZMnBNeIyt5eFwwo7qiLfzFZmjNmxjkiQlU=
@@ -96,8 +98,6 @@ github.com/metacubex/quic-go v0.31.1-0.20221127023445-9f0ce65a734e h1:RnfC6+sShJ
 github.com/metacubex/quic-go v0.31.1-0.20221127023445-9f0ce65a734e/go.mod h1:7NPWVTLiX2Ss9q9gBNZaNHsPqZ3Tg/ApyrXxxUYbl78=
 github.com/metacubex/sing-shadowsocks v0.1.0 h1:uGBtNkpy4QFlofaNkJf+iFegeLU11VzTUlkC46FHF8A=
 github.com/metacubex/sing-shadowsocks v0.1.0/go.mod h1:8pBSYDKVxTtqUtGZyEh4ZpFJXwP6wBVVKrs6oQiOwmQ=
-github.com/metacubex/sing-tun v0.1.0 h1:iQj0+0WjJynSKAtfv87wOZlVKWl3w9RvkOSkVe9zuMg=
-github.com/metacubex/sing-tun v0.1.0/go.mod h1:l4JyI6RTrlHLQz5vSakg+wxA+LwGVI0Mz5ZtlOv67dA=
 github.com/metacubex/sing-wireguard v0.0.0-20221109114053-16c22adda03c h1:VHtXDny/TNOF7YDT9d9Qkr+x6K1O4cejXLlyPUXDeXQ=
 github.com/metacubex/sing-wireguard v0.0.0-20221109114053-16c22adda03c/go.mod h1:fULJ451x1/XlpIhl+Oo+EPGKla9tFZaqT5dKLrZ+NvM=
 github.com/miekg/dns v1.1.50 h1:DQUfb9uc6smULcREF09Uc+/Gd46YWqJd5DbpPE9xkcA=
